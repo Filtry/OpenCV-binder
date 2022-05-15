@@ -2,3 +2,8 @@ python-libtorrent
 deluged
 deluge-webui
 deluge-console
+psmisc
+deluge
+transmission-cli
+net-tools
+htop
