@@ -1,4 +1,4 @@
 python-libtorrent
 deluged
-deluge-web
+deluge-webui
 deluge-console
