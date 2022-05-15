@@ -2,4 +2,3 @@ lbry-libtorrent
 opencv-python~=4.2.0
 numpy~=1.18.0
 matplotlib~=3.2.0
-opencv-contrib-python
