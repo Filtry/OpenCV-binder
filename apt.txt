@@ -1,0 +1,4 @@
+python-libtorrent
+deluged
+deluge-web
+delugw-console
